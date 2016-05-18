@@ -1,4 +1,4 @@
-# prolog-labyrinths
+# ist.lp.labyrinths
 A Prolog labyrinth-solving program
 
 
